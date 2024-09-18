@@ -1,1 +1,1 @@
-SELECT * FROM covid19.covid_deaths;
+select * from covid_mobility;
